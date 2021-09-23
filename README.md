@@ -1,0 +1,2 @@
+# curious
+guide to curiousty
